@@ -44,4 +44,3 @@ ipch/
 *.pfx
 *.publishsettings
 .vs/
-/Web/PersonalArea/MyAFX/Properties/PublishProfiles/MyLocal.pubxml
